@@ -1,1 +1,1 @@
-# VLStereo Data will be released soon.
+# VLStereo Dataset will be released here soon.
