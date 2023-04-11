@@ -4,8 +4,14 @@
 </h3>
 
 
-This repository contains VLStereoSet. The dataset to measure stereotypical bias on Visual Language Pretrained Models (VL-PTMs).
+This repository contains VLStereoSet. The dataset to measure stereotypical bias on Visual Language Pretrained Models (VL-PTMs). The detailed data construction process is describled in Data Construction Section of  [VLStereoSet: A Study of Stereotypical Bias in Pre-trained Vision-Language Models]([https://pages.github.com/](https://aclanthology.org/2022.aacl-main.40.pdf))
 
+
+## Disclaimer
+
+The image url is retrieved from Google Image Search. We does not create this image, vouch for its accuracy, or guarantee that it is the most recent data available from the data provider. Images might be subject to copyright. Please refer to "Find images you can use & share" below provided by Google：
+
+https://support.google.com/websearch/answer/29508?hl=en&co=GENIE.Platform%3DAndroid
 
 ## Citation
 To cite VLStereoSet: 
