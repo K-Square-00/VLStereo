@@ -4,7 +4,7 @@
 </h3>
 
 
-This repository contains an extensible codebase to measure stereotypical bias on new pretrained models, as well as code to replicate our results. We encourage the community to use this as a springboard for further evaluation of bias in pretrained language models, and to submit attempts to mitigate bias to the [leaderboard](http://stereoset.mit.edu).
+This repository contains VLStereoSet. The dataset to measure stereotypical bias on Visual Language Pretrained Models (VL-PTMs).
 
 
 ## Citation
