@@ -8,7 +8,7 @@ This repository contains VLStereoSet. The dataset to measure stereotypical bias 
 
 
 ## Citation
-To cite StereoSet: 
+To cite VLStereoSet: 
 
 ```
 @inproceedings{zhou-etal-2022-vlstereoset,
