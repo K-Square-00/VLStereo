@@ -9,7 +9,7 @@ This repository contains VLStereoSet. The dataset to measure stereotypical bias 
 
 ## Disclaimer
 
-The image url is retrieved from Google Image Search. We does not create this image, vouch for its accuracy, or guarantee that it is the most recent data available from the data provider. Images might be subject to copyright. Please refer to "Find images you can use & share" below provided by Google：
+The image url is retrieved from Google Image Search. We do not create this image, vouch for its accuracy, or guarantee that it is the most recent data available from the data provider. Images might be subject to copyright. Please refer to "Find images you can use & share" below provided by Google：
 
 https://support.google.com/websearch/answer/29508?hl=en&co=GENIE.Platform%3DAndroid
 
